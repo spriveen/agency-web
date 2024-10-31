@@ -13,12 +13,12 @@ const Hero = () => {
           data-aos-delay="600"
           className=" text-5xl w-full md:w-3/4 font-bold leading-tight"
         >
-          Grow Your Business With Us
+          Boost Your Business with Our Support
           <BsArrowRightCircle className=" inline ml-5" />
         </h1>
         <p data-aos="fade-up" data-aos-delay="800" className=" w-full md:w-3/4">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae,
-          voluptatibus?
+        Partner with us to leverage tailored strategies that drive growth and enhance your market presence. Our dedicated team is here to support you every step of the way
+         ensuring your business reaches its fullest potential.
         </p>
         <button
           data-aos="fade-up"
