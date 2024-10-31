@@ -23,10 +23,8 @@ const DevCard = ({ img, project, title }) => {
         </button>
         <h1 className=" text-4xl font-semibold">{title}</h1>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam
-          perferendis illum quae accusantium, quia fuga soluta labore animi,
-          harum ad odio esse. Eaque, excepturi impedit nam necessitatibus ut
-          veritatis consequatur.
+        Discover how our innovative solutions can transform your vision into reality. 
+        Explore the details of our work and see the impact we can make together
         </p>
         <button className=" border-2 border-black px-6 py-2 rounded-full font-medium">
           See Full Project

@@ -11,10 +11,8 @@ const WebCard = ({ img, project, title }) => {
         </button>
         <h1 className=" text-4xl font-semibold">{title}</h1>
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam
-          perferendis illum quae accusantium, quia fuga soluta labore animi,
-          harum ad odio esse. Eaque, excepturi impedit nam necessitatibus ut
-          veritatis consequatur.
+        Discover our portfolio of innovative projects designed to meet diverse client needs. From concept to execution
+         we ensure each project reflects our commitment to excellence and creativity.
         </p>
         <button className=" border-2 border-black px-6 py-2 rounded-full font-medium">
           See Full Project

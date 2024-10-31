@@ -18,8 +18,8 @@ const Projects = () => {
         data-aos="fade-up"
         className="text-sm lg:text-base w-full lg:w-3/4 text-center mt-5"
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id rerum quos
-        dolor ratione nemo voluptas. Nobis dolore similique odit provident.
+        Explore our diverse range of projects that showcase our expertise and creativity.
+         Discover how we turn ideas into successful outcomes.
       </p>
 
       <div className=" py-14">
