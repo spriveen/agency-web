@@ -48,7 +48,7 @@ const Navbar = () => {
           <Link href="/">
             <div className=" flex items-center gap-2">
               <FaMagento size={29} />
-              <span className=" text-2xl font-bold">WEBWISE</span>
+              <span className=" text-2xl font-bold">Aspire Agency</span>
             </div>
           </Link>
         </div>
@@ -71,7 +71,7 @@ const Navbar = () => {
 
         {/* nav button  */}
         <button className="hidden lg:flex bg-black text-white px-4 py-2 rounded-md hover:bg-primary hover:text-black transition-colors duration-300 ease-in-out">
-          Contact Us
+        Connect With Us
         </button>
 
         {/* menu button  */}
