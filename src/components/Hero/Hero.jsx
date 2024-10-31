@@ -23,7 +23,7 @@ const Hero = () => {
         <button
           data-aos="fade-up"
           data-aos-delay="1000"
-          className=" bg-primary px-6 py-2 shadow-[5px_5px_0px_0px_rgba(0,0,0)] rounded-md cursor-pointer"
+          className=" bg-[#a1fc83] px-6 py-2 shadow-[5px_5px_0px_0px_rgba(0,0,0)] rounded-md cursor-pointer"
         >
           Get Started
         </button>

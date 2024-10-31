@@ -70,7 +70,7 @@ const Navbar = () => {
         </div>
 
         {/* nav button  */}
-        <button className="hidden lg:flex bg-black text-white px-4 py-2 rounded-md hover:bg-primary hover:text-black transition-colors duration-300 ease-in-out">
+        <button className="hidden lg:flex bg-[#fcde83] text-white px-4 py-2 rounded-md hover:bg-[#f91f1f] hover:text-black transition-colors duration-300 ease-in-out">
         Connect With Us
         </button>
 
