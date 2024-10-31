@@ -6,7 +6,7 @@ const Contact = () => {
       <div className="min-h-screen container flex flex-col lg:flex-row justify-center lg:justify-between items-center">
         <div data-aos="fade-up" className=" w-full lg:w-2/4">
           <h1 className=" text-4xl lg:text-6xl font-semibold leading-tight">
-          Lets make your project a reality!
+          Lets Make Your Project a Reality!
           </h1>
           <div className=" border-b-2 border-black pb-3 mt-10">
             <input

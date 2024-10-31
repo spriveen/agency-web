@@ -9,8 +9,8 @@ const Footer = () => {
         <div className=" w-full md:w-1/4 space-y-4">
           <span className=" text-2xl font-bold">WEBWISE</span>
           <p className=" text-sm">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique
-            optio nam officiis dolor, nobis consequuntur.
+          At WEBWISE, we are dedicated to empowering businesses through innovative web solutions. Our team of experts leverages cutting-edge technology to create user-friendly websites that not only enhance your online presence but also drive engagement and conversions. 
+          Join us in transforming your digital landscape and unlocking your business s full potential.
           </p>
         </div>
         <div>
