@@ -40,8 +40,7 @@ const WhyUs = () => {
           </div>
           <div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere,
-              saepe.
+            We are dedicated to delivering quality, innovation, and exceptional service to meet your unique needs.
             </p>
           </div>
         </div>
