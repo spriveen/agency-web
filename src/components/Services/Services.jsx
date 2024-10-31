@@ -32,14 +32,15 @@ const Services = () => {
         data-aos="fade-up"
         className=" text-3xl lg:text-5xl font-bold text-center w-full lg:w-3/4"
       >
-        Save time managing you business with our services
+       Streamline your business management with our services
       </h1>
       <p
         data-aos="fade-up"
         className=" text-sm lg:text-base w-full lg:w-3/4 text-center"
       >
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Id rerum quos
-        dolor ratione nemo voluptas. Nobis dolore similique odit provident.
+        Our services are designed to simplify your business operations, allowing you to focus on growth and 
+        innovation. Experience increased efficiency and productivity 
+        as we handle the complexities of management for you.
       </p>
 
       <div

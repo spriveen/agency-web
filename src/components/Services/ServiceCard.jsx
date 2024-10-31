@@ -13,9 +13,11 @@ const ServiceCard = ({ id, icon, title, color }) => {
       <div className=" space-y-4">
         <h1 className=" text-3xl font-bold">{title}</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam
-          quaerat exercitationem ab praesentium mollitia quis.
-        </p>
+  Our agency specializes in creating stunning and effective websites that elevate your brand. 
+  With a focus on user experience and cutting-edge design, we develop customized solutions to meet 
+  your unique business goals. Partner with us to bring your vision to life and engage your audience effectively.
+</p>
+
       </div>
     </div>
   );
